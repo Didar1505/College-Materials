@@ -1305,16 +1305,8 @@ text = "Этот фильм плохой, а сюжет очень плохой"
 | `split()` | Разделяет строку на список |
 | `join()` | Объединяет строки с разделителем |
 
-## Итоги занятия
 
-Сегодня мы изучили методы строк в Python и научились:
 
-- Обрабатывать пользовательский ввод.
-- Изменять регистр текста.
-- Удалять лишние пробелы.
-- Искать и заменять подстроки.
-- Проверять содержимое строк.
-- Разделять и объединять текст.
-- Комбинировать методы для решения практических задач.
-
-**Главный вывод:** методы строк позволяют решать распространённые задачи обработки текста с помощью готовых инструментов Python, делая программы короче, понятнее и удобнее для сопровождения.
+https://leetcode.com/problems/robot-return-to-origin/description/?envType=problem-list-v2&envId=string
+https://leetcode.com/problems/score-of-a-string/description/?envType=problem-list-v2&envId=string
+https://leetcode.com/problems/largest-even-number/description/?envType=problem-list-v2&envId=string
